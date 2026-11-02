@@ -32,7 +32,7 @@ Microsoft Excel was used to organize the datasets, calculate indicators, create 
 
 Further statistical analysis and interactive visualization will be developed as additional conflict-related datasets become available.
 
-## 5. Limitations
+## 4. Limitations
 
 - Snapshot observations do not represent unique individuals across the entire study period.
 - Differences in reporting coverage may influence observed changes.

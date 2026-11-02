@@ -17,7 +17,7 @@ The following preparation steps were performed:
 
 ## 2. Returns Dataset
 
-The returns dataset contains 13 snapshots covering the period from June 2025 to July 2026.
+The returns dataset contains snapshots covering the period from June 2025 to July 2026.
 
 The following preparation steps were performed:
 
